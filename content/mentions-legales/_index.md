@@ -1,16 +1,16 @@
 ---
 isPage: true
 draft: false
-title: Legal mentions
-description: Legal mentions page
+title: Mentions légales
+description: Page des mentions légales
 ---
-## Welcome to demo.hugolify.io
+## Bienvenue sur le site eco-conception-site-web.com
 
 By using this site, you acknowledge having read the provisions below and you agree to respect them. The legal notices indicated below may change, we invite you to consult them regularly.
 
 ## Editor
 
-The demo.hugolify.io website is the property of {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
+The eco-conception-site-web.com website is the property of {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
 
 ## Hosting
 
