@@ -1,4 +1,4 @@
-module github.com/hugolify/hugolify-template
+module github.com/sebousan/eco-conception-site-web
 
 go 1.19
 
