@@ -3,20 +3,24 @@ isPage: true
 draft: false
 title: Mentions légales
 description: Page des mentions légales
+hero:
+  title: Mentions légales
 ---
+*Date de dernière mise à jour : juillet 2023*
+
 ## Bienvenue sur le site eco-conception-site-web.com
 
-By using this site, you acknowledge having read the provisions below and you agree to respect them. The legal notices indicated below may change, we invite you to consult them regularly.
+En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions ci-dessous et vous vous engagez à les respecter. Les mentions légales indiquées ci-dessous peuvent être amenées à évoluer, nous vous invitons à les consulter régulièrement.
 
-## Editor
+## Responsable de publication
 
-The eco-conception-site-web.com website is the property of {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
+Le site eco-conception-site-web.com est la propriété de {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
 
-## Hosting
+## Hébergement
 
-The site demo.hugolify.io is hosted at:
+Le site eco-conception-site-web.com est hébergé chez :
 
-Netlify,\
+**Netlify**,\
 2325 3rd Street, \
 Suite 296, \
 San Francisco, \
@@ -27,4 +31,8 @@ https://www.netlify.com
 
 ## Conception
 
-This site was designed with [Hugolify](https://www.hugolify.io), an open-source Jamstack solution, which allows you to design a site that is as environmentally friendly as possible and closest to accessibility criteria.
+Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.io" text="Hugolify" >}}, une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
+
+## Crédits
+
+Toutes les illustrations sont l’œuvre de {{< blank_link link="https://twitter.com/maryamato88" text="Mary Amato" >}}

@@ -37,10 +37,32 @@ blocks:
       
       
       En somme, l'éco-conception de site Web est un moyen puissant d'allier innovation, responsabilité et succès commercial tout en préservant notre belle planète.
+  - type: informations
+    column: 4
+    heading:
+      title: Les avantages de l'éco-conception de site Web
+
+    items: 
+      - title: Eco-conçu
+        text: Vous contribuez à la lutte contre le changement climatique.
+        icon: tree
+      - title: Performant
+        text: Un site Web éco-conçu est souvent plus rapide et plus efficace.
+        icon: speedometer2
+      - title: Utilisateur
+        text: Expérience utilisateur améliorée, Cela peut renforcer leur confiance en votre entreprise.
+        icon: heart
+      - title: Pérenne
+        text: Un site Web fait pour durer, intemporel.
+        icon: clock-history
+  - type: quote
+    quote: Boostez votre présence en ligne tout en préservant la planète avec nos sites Web éco-conçus, alliant performance, responsabilité et succès durable !
+    author: 
+      title: Sébastien Moulène
+      text: Un Cinq
   - type: cta
     heading:
       title: Contactez-nous !
-      text: Boostez votre présence en ligne tout en préservant la planète avec nos sites Web éco-conçus, alliant performance, responsabilité et succès durable !
     cta:
       blank: true
       text: Un Cinq
