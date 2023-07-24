@@ -42,7 +42,27 @@ blocks:
       - title: Référencement
         text: Un site léger, c’est un site qui est mis en avant par Google.
         icon: search-heart
-
+  - type: informations
+    heading:
+      title: Comment calculer l’empreinte carbone de son site ?
+      text: Voici 3 outils pour déterminer l’impact écologique d’une empreinte carbone d’un site Web.
+    column: 4
+    items:
+      - title: Website Carbon Calculator
+        cta:
+          text: www.websitecarbon.com
+          url: https://www.websitecarbon.com/
+          blank: true 
+      - title: Ecograder
+        cta:
+          text: www.ecograder.com
+          url: https://www.ecograder.com/
+          blank: true 
+      - title: EcoIndex
+        cta:
+          text: www.ecoindex.fr
+          url: https://www.ecoindex.fr/
+          blank: true 
   - type: title
     heading:
       title: Et maintenant ?
