@@ -3,9 +3,6 @@ title: Eco-conception de site Web
 hero:
   title: L’éco-conception de site Web
   align: center
-  cta:
-    url: "#main"
-    text: Découvrir
 blocks:
   - type: editorial
     direction: ltr
@@ -27,23 +24,13 @@ blocks:
       En adoptant ces pratiques, vous contribuerez à réduire l'empreinte carbone de votre site Web.
     image:
       src: /images/uploads/114.Coding.svg
-  - type: editorial
-    direction: ltr
-    title: Les avantages de l'éco-conception de site Web
-    image:
-      src: /images/uploads/205.OK.svg
-    text: >-
-      L'éco-conception de site Web présente de nombreux avantages pour les entreprises et les utilisateurs. Tout d'abord, en adoptant une approche respectueuse de l'environnement, vous montrez à vos clients que vous vous souciez de la planète et de leur bien-être. Cela peut renforcer leur confiance en votre entreprise et fidéliser votre clientèle. De plus, un site Web éco-conçu est souvent plus rapide et plus efficace, ce qui améliore l'expérience utilisateur et peut conduire à une augmentation du trafic et des ventes. Enfin, en réduisant la consommation d'énergie et en limitant les émissions de carbone, vous contribuez à la lutte contre le changement climatique et à la préservation de l'environnement pour les générations futures. 
-      
-      
-      En somme, l'éco-conception de site Web est un moyen puissant d'allier innovation, responsabilité et succès commercial tout en préservant notre belle planète.
   - type: informations
     column: 4
     heading:
       title: Les avantages de l'éco-conception de site Web
-
+      text: L’éco-conception de site Web présente de nombreux avantages pour les entreprises et les utilisateurs.
     items: 
-      - title: Eco-conçu
+      - title: Bas carbone
         text: Vous contribuez à la lutte contre le changement climatique.
         icon: tree
       - title: Performant
@@ -52,17 +39,30 @@ blocks:
       - title: Utilisateur
         text: Expérience utilisateur améliorée, Cela peut renforcer leur confiance en votre entreprise.
         icon: heart
-      - title: Pérenne
-        text: Un site Web fait pour durer, intemporel.
-        icon: clock-history
+      - title: Référencement
+        text: Un site léger, c’est un site qui est mis en avant par Google.
+        icon: search-heart
+
+  - type: title
+    heading:
+      title: Et maintenant ?
   - type: quote
-    quote: Boostez votre présence en ligne tout en préservant la planète avec nos sites Web éco-conçus, alliant performance, responsabilité et succès durable !
+    quote: « Boostez votre présence en ligne tout en préservant la planète avec nos sites Web éco-conçus, alliant performance, responsabilité et succès durable »
     author: 
       title: Sébastien Moulène
       text: Un Cinq
-  - type: cta
-    heading:
-      title: Contactez-nous !
+      image:
+        src: /images/uploads/sebastien-moulene.jpg
+  - type: editorial
+    direction: ltr
+    title: Développement Web depuis 20 ans
+    image:
+      src: /images/uploads/205.OK.svg
+    text: >-
+      Un Cinq a été créé dans l’optique de développer des sites Web pérennes, plus simples, accessibles à tous et à faible émission de carbone.
+
+
+      Nous mettons à votre disposition notre expertise et savoir-faire grâce à notre solution Hugolify (développé en Hugo).
     cta:
       blank: true
       text: Un Cinq
