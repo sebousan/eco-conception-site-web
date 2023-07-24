@@ -15,12 +15,14 @@ module.exports = {
                     /-backdrop$/,
                     /^is-/,
                     /^has-/,
-                    /^js-/
+                    /^js-/,
+                    /^carousel-item/
                 ],
                 deep: [
                     /^tobii/
                 ],
                 greedy: [
+                    /^data-anim$/,
                     /^aria-current$/,
                     /^role$/
                 ]
