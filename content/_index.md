@@ -45,35 +45,35 @@ blocks:
   - type: informations
     heading:
       title: Comment calculer l’empreinte carbone de son site ?
-      text: Voici 3 outils pour déterminer l’impact écologique d’une empreinte carbone d’un site Web.
-    column: 4
+      text: Voici 2 outils pour déterminer l’impact écologique d’une empreinte carbone de votre site Web.
+    column: 2
     items:
       - title: Website Carbon Calculator
+        text: Calculateur créé par Wholegrain Digital.
         cta:
           text: www.websitecarbon.com
           url: https://www.websitecarbon.com/
           blank: true 
-      - title: Ecograder
-        cta:
-          text: www.ecograder.com
-          url: https://www.ecograder.com/
-          blank: true 
       - title: EcoIndex
+        text: Calculateur du collectif Green IT.
         cta:
           text: www.ecoindex.fr
           url: https://www.ecoindex.fr/
           blank: true 
   - type: title
+    background: true
     heading:
       title: Et maintenant ?
   - type: quote
+    background: true
     quote: « Boostez votre présence en ligne tout en préservant la planète avec nos sites Web éco-conçus, alliant performance, responsabilité et succès durable »
     author: 
       title: Sébastien Moulène
-      text: Un Cinq
+      text: Développeur, Un Cinq
       image:
         src: /images/uploads/sebastien-moulene.jpg
   - type: editorial
+    background: true
     direction: ltr
     title: Développement Web depuis 20 ans
     image:
@@ -82,7 +82,7 @@ blocks:
       Un Cinq a été créé dans l’optique de développer des sites Web pérennes, plus simples, accessibles à tous et à faible émission de carbone.
 
 
-      Nous mettons à votre disposition notre expertise et savoir-faire grâce à notre solution Hugolify (développé en Hugo).
+      Nous mettons à votre disposition notre expertise et savoir-faire.
     cta:
       blank: true
       text: Un Cinq
