@@ -9,8 +9,8 @@ blocks:
     title: Qu'est-ce que l'éco-conception de site Web ?
     text: >-
       L'éco-conception de site Web est une approche innovante et responsable pour créer des sites internet tout en préservant notre environnement. L'idée derrière cette pratique est de concevoir des sites de manière à réduire leur impact sur la planète. Cela inclut notamment l'utilisation efficace des ressources, la réduction des émissions de carbone et la limitation de la consommation d'énergie. 
-      
-      
+
+
       L'éco-conception implique également de privilégier des solutions durables tout en offrant une expérience utilisateur agréable. En adoptant cette approche, les entreprises peuvent jouer un rôle actif dans la préservation de la nature sans sacrifier la qualité de leur site Web.
     image:
       src: /images/uploads/179.Planet.svg
@@ -19,8 +19,8 @@ blocks:
     title: Que faut-il faire pour éco-concevoir un site Web ?
     text: >-
       Pour éco-concevoir un site Web, il est essentiel de prendre quelques mesures simples mais efficaces. Tout d'abord, optimisez la taille des images et des fichiers pour réduire le temps de chargement du site. Moins de temps de chargement signifie moins de consommation d'énergie. Ensuite, privilégiez les couleurs et les polices qui nécessitent moins d'énergie pour être affichées à l'écran. Enfin, utilisez un hébergement web respectueux de l'environnement qui utilise des sources d'énergie renouvelables. 
-      
-      
+
+
       En adoptant ces pratiques, vous contribuerez à réduire l'empreinte carbone de votre site Web.
     image:
       src: /images/uploads/114.Coding.svg
@@ -29,7 +29,7 @@ blocks:
     heading:
       title: Les avantages de l'éco-conception de site Web
       text: L’éco-conception de site Web présente de nombreux avantages pour les entreprises et les utilisateurs.
-    items: 
+    items:
       - title: Bas carbone
         text: Vous contribuez à la lutte contre le changement climatique.
         icon: tree
@@ -53,13 +53,13 @@ blocks:
         cta:
           text: www.websitecarbon.com
           url: https://www.websitecarbon.com/
-          blank: true 
+          blank: true
       - title: EcoIndex
         text: Calculateur du collectif Green IT.
         cta:
           text: www.ecoindex.fr
           url: https://www.ecoindex.fr/
-          blank: true 
+          blank: true
   - type: title
     background: true
     heading:
@@ -67,7 +67,7 @@ blocks:
   - type: quote
     background: true
     quote: « Boostez votre présence en ligne tout en préservant la planète avec nos sites Web éco-conçus, alliant performance, responsabilité et succès durable »
-    author: 
+    author:
       title: Sébastien Moulène
       text: Développeur, Un Cinq
       image:
@@ -85,6 +85,6 @@ blocks:
       Nous mettons à votre disposition notre expertise et savoir-faire.
     cta:
       blank: true
-      text: Un Cinq
+      text: En savoir plus sur Un Cinq
       url: https://uncinq.dev
 ---

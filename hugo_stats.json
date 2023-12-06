@@ -65,6 +65,7 @@
       "hero-center",
       "hero-content",
       "hero-media",
+      "hero-with-image",
       "home-page",
       "hugolify",
       "icon",
@@ -101,6 +102,7 @@
       "text",
       "title",
       "toc",
+      "top",
       "twitter"
     ],
     "ids": [
