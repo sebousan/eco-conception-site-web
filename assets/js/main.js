@@ -1,16 +1,22 @@
+// Chrome bug fix firing
+window.addEventListener("load", () => {
+  document.body.classList.remove("preload");
+});
+
 // Vendors
 // import './vendors/bootstrap';
-// import './vendors/cookie';
 
 // Blocks
 // import './blocks/chart';
-// import './blocks/gallery';
 // import './blocks/instagram';
-// import './blocks/map';
 
 // Components
-import './components/animation';
+import "./components/animation";
 // import './components/carousel';
+// import './components/gallery';
 // import './components/gauge';
-// import './components/stickyNav';
-import './components/toc';
+// import './components/map';
+// import './components/menu';
+import "./components/toc";
+// import './components/tooltip';
+// import './components/video';

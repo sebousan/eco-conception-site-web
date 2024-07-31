@@ -8,7 +8,7 @@ blocks:
     direction: ltr
     title: Qu'est-ce que l'éco-conception de site Web ?
     text: >-
-      L'éco-conception de site Web est une approche innovante et responsable pour créer des sites internet tout en préservant notre environnement. L'idée derrière cette pratique est de concevoir des sites de manière à réduire leur impact sur la planète. Cela inclut notamment l'utilisation efficace des ressources, la réduction des émissions de carbone et la limitation de la consommation d'énergie. 
+      L'éco-conception de site Web est une approche innovante et responsable pour créer des sites Web tout en préservant notre environnement. L'idée derrière cette pratique est de concevoir des sites de manière à réduire leur impact sur la planète. Cela inclut notamment l'utilisation efficace des ressources, la réduction des émissions de carbone et la limitation de la consommation d'énergie. 
 
 
       L'éco-conception implique également de privilégier des solutions durables tout en offrant une expérience utilisateur agréable. En adoptant cette approche, les entreprises peuvent jouer un rôle actif dans la préservation de la nature sans sacrifier la qualité de leur site Web.
