@@ -10,7 +10,6 @@ module.exports = {
       content: ['./hugo_stats.json'],
       dynamicAttributes: [
         'aria-current', 
-        'data-anim', 
         'href', 
         'role', 
         'type'
@@ -25,6 +24,9 @@ module.exports = {
           /^is-/,
           /^has-/,
           /^js-/
+        ],
+        deep: [
+          /^data-anim$/
         ]
       },
       defaultExtractor: (content) => {
