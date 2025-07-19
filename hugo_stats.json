@@ -51,6 +51,7 @@
       "container",
       "content",
       "content-body",
+      "cta",
       "description",
       "grid",
       "header",
@@ -74,7 +75,6 @@
       "logo",
       "media",
       "media-icon",
-      "media-none",
       "name",
       "nav",
       "nav-accessibility",
@@ -95,20 +95,6 @@
       "top",
       "twitter"
     ],
-    "ids": [
-      "TableOfContents",
-      "bienvenue-sur-le-site-eco-conception-site-webcom",
-      "conception",
-      "cookie",
-      "crédits",
-      "footer",
-      "hébergement",
-      "main",
-      "pages",
-      "politique-de-protection-des-données",
-      "responsable-de-publication",
-      "toc",
-      "tocLabel"
-    ]
+    "ids": null
   }
 }
