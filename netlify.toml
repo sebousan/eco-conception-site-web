@@ -31,6 +31,6 @@
 
 [[redirects]]
     from = "/*"
-    to = "https://www.eco-conception-site-web.fr"
+    to = "https://www.eco-conception-site-web.fr/"
     status = 301
     force = true
