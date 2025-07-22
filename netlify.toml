@@ -30,7 +30,7 @@
     X-Content-Type-Options = "nosniff"
 
 [[redirects]]
-    from = "/*"
-    to = "https://www.eco-conception-site-web.fr/"
-    status = 301
-    force = true
+  from = "/*"
+  to = "https://www.eco-conception-site-web.fr/"
+  status = 301
+  force = true
