@@ -28,3 +28,9 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
+
+[[redirects]]
+    from = "/*"
+    to = "https://www.eco-conception-site-web.fr"
+    status = 301
+    force = true
