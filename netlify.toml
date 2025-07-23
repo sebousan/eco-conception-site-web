@@ -31,6 +31,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://www.eco-conception-site-web.fr/"
+  to = "https://www.eco-conception-site-web.fr/:splat"
   status = 301
   force = true
+  conditions = { Host = ["eco-conception-site-web.com", "eco-conception-site-internet.fr", "eco-conception-site-internet.com"] }
